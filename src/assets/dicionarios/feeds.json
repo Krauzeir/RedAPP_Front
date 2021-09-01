@@ -1,0 +1,205 @@
+{
+    "feeds": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "_id": 1, 
+                "name": "Teclado Mecânico",
+                "avatar": "teclado.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Draconic K530RGB",
+                "description": "O tamanho super compacto do Redragon Draconic favorece a portabilidade, reduz o esforço para alcançar o mouse e é ideal para usuários que dispõem de pouco espaço. ",
+                "descriptionE": "Case: Plástico ABS \nSwitches: Redragon DIY Brown \nSwitches removíveis: Sim \nIluminação: Redragon Chroma \nCabo removível: Sim \nConectividade: USB Tipo C \nSoftware: Sim \nPezinhos de elevação: Sim \nComprimento: 291mm \nLargura: 101mm \nAltura: 36mm \nPeso: 644g \n \nATENÇÃO: NÃO ACOMPANHA ADAPTADOR BLUETOOTH USB, É NECESSÁRIO QUE O DISPOSITIVO JÁ TENHA FUNCIONALIDADE BLUETOOTH PARA UTILIZAR O DRACONIC.",
+                "points": 130000,
+                "price": 260.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "dragonicslide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "dragonicslide2.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "dragonicslide3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "_id": 2, 
+                "name": "Headset",
+                "avatar": "headset.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Minos White",
+                "description": "O Minos Lunar White tem visual elegante, exibindo um belíssimo acabamento na cor branca, que contrasta e ressalta os LEDs em vermelho. Com almofadas super macias, o Minos Lunar White oferece conforto superior para longos períodos de uso.",
+                "descriptionE": "Cor: Branco Lunar White \nDiâmetro do driver: 50mm \nMaterial das Earpads: Couro sintético \nSensibilidade: 120 ± 3dB S.P.L. at 1KHz \nFrequência de resposta: 20Hz até 20000Hz \nImpedancia: 32 Ohm ± 15% \nSensibilidade do microfone: -38 ± 2dB (0dB = 1V/PA) \nPolar Pattern do microfone: Omnidirecional \nFunção de Mute do microfone: Integrada ao headset \nIluminação: Single Color \nSoftware: Não \nConexão: 1x USB Banhado a Ouro \nComprimento do cabo: 2m",
+                "points": 140000,
+                "price": 280.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "minoswhiteslide1.png"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "minoswhiteslide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "_id": 3, 
+                "name": "Mouse Gamer",
+                "avatar": "mousegamer.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "LoneWolf 2",
+                "description": "Trazendo a já amada iluminação Redragon Chroma Mark II o mouse Gamer Profissional LoneWolf 2 impressiona com tanta beleza. Vá além e customize do seu jeito a iluminação do seu mouse com o software Redragon. Descubra um Estilo moderno com a iluminação 'Underglow' do LoneWolf 2, refletida pela parte frontal do mouse de forma sutil para seu Setup.",
+                "descriptionE": "Sensor: PWM 3325 \nDPI Modo 1: 1000/2000/4000/8000/16000 (Botão DPI) \nDPI Modo 2: ±100 de 100 até 32,000 via software \nBotões customizáveis: 10 \nPolling Rate: 125/250/500/1000 Hz \nSistema de rastreamento: Óptico \nConector: USB 2.0 \nTamanho: 129x67.5x40.5mm \nPeso: 166g (com o peso adicional de 9.4g) \nComprimento do cabo: 1.8m",
+                "points": 120000,
+                "price": 240.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "lonewolf2slide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "lonewolf2slide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "_id": 3, 
+                "name": "Mouse Gamer",
+                "avatar": "mousegamer.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Sniper",
+                "description": "Equipado com a aclamada iluminaçÃo RGB Chroma, o mouse Gamer Redragon Sniper impressiona com tanta beleza. Com 9 botões totalmente programáveis, que permitem acesso rápido a ações, combos específicos de jogos, ou até mesmo um atalhos multimídia totalmente configuráveis via Software.",
+                "descriptionE": "Sensor óptico de até 12400 DPI \nRetroiluminação LED RGB \nBotão para Troca de DPI On-The-Fly \n9 Botões Programáveis via Software \nSoftware para configuração de macros \nPegada Ultra Confortável \nGarantia: 12 Meses",
+                "points": 125000,
+                "price": 250.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "sniperslide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "sniperslide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "_id": 4, 
+                "name": "Premium",
+                "avatar": "premium.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Cadeira Gamer Profissional - Metis",
+                "description": "Cadeira pra joguinho, Cadeira de computador, Cadeira Gamer, o que seja! É só questão de sentar nela, para que qualquer pessoa fique sem palavras. A Metis é a primeira linha de cadeiras Gamer da Redragon, trazendo a já conhecida competência da marca em seu preço e qualidade. ",
+                "descriptionE": "Base: Estrela plástica de ABS reforçada de 70CM com detalhes estéticos pela lateral das rodas. \nPistão neumático regulável para melhor adaptação do usuário. \nBraços de apoio fabricados com plástico reforçado e com altura regulável para maior comodidade de altura, com mínimo de 13 Cm e máx de 20 cmm de altura, seus braços ficam na posição perfeita pra você transferir toda sua skill sem vacilo e com conforto! \nModelo: Metis Preta/Vermelha \nPN:C102-BR, C102-B e C102-BG",
+                "points": 900000,
+                "price": 600.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "metisslide1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "metisslide2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "metisslide3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "_id": 5, 
+                "name": "Brindes",
+                "avatar": "brindes.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Pijama Sleeping Box",
+                "description": "A linha de Pijamas Redragon renova a coleção de Lifestyle Gamer que você já ama e conhece, em modelos exclusivos e de tiragem limitada. O Drop Pijama Sleeping Box é um bonito e 'sempre pronto para batalha' pijama nas cores principais da Redragon, e traz um excelente conforto para suas horas de sono ou pra quem streama a noite pra galera.",
+                "descriptionE": "Pijama feito de malha 100% algodão para maior conforto e qualidade \nTécnica da estampa: Mix ou Clear \nMaterial reforçado em toda a peça desde a ribana até seu acabamento \nBrinde Máscara de dormir, leve e resistente, confeccionada em material macio e confortável com estampa exclusiva \n \nTabela de Medidas \n \nP - (L) 50cm x (A) 68cm x (M) 18cm \nM - (L) 53cm x (A) 71cm x (M) 19cm \nG - (L) 56cm x (A) 74cm x (M) 20cm \nGG - (L) 59cm x (A) 77cm x (M) 21cm \nXG - (L) 62cm x (A) 80cm x (M) 22cm",
+                "points": 90000,
+                "price": 120.0,
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "pijamaboxslide1.png"
+                    },
+                    {
+                        "type": "image",
+                        "file": "pijamaboxslide2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "_id": 6, 
+                "name": "Gift Card",
+                "avatar": "gift.jpeg"
+            },
+            "likes": 0,
+            "product": {
+                "name": "Gift Card - Google Play R$50",
+                "description": "Receba o código de um gift card no valor de 50 reais para gastar como desejar na Play Store, seja com jogo ou qualquer outra necessidade. Agradecemos o apoio de vocês!!",
+                "descriptionE": "ATENÇÃO: O CÓDIGO É ENTREGUE POR EMAIL APÓS FEITA A VERIFICAÇÃO DA IDENTIDADE DA PESSOA QUE RESGATOU O PRÊMIO",
+                "points": 35000,
+                "price": "X",
+                "url": "https://www.twitch.tv/redragonbrasil",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "googleplayslide1.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
